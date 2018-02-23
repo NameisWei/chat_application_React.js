@@ -1,6 +1,6 @@
-##This project was bootstrapped with Create React App
+## This project was bootstrapped with Create React App
 
-##Stack
+## Stack
 * ant-design
 * HTML、CSS
 * Reactjs
@@ -18,5 +18,5 @@
 3. run `cd server`
 4. run `nodemon server.js`
 
-##Running in development
+## Running in development
 Run this application locally, the database must be prepared.
